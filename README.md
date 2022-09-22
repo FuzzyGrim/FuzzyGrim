@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Summer 2022 in review](https://www.fuzzygrim.com/seasons/summer-2022)
 - [How I secure my VPS](https://www.fuzzygrim.com/posts/secure-vps)
 - [Spring 2022 in review](https://www.fuzzygrim.com/seasons/spring-2022)
 - [Securely expose your self-hosted services](https://www.fuzzygrim.com/posts/exposing-services)
 - [My self-hosting setup](https://www.fuzzygrim.com/posts/selfhosted-setup)
-- [Connecting to a VPN provider with WireGuard](https://www.fuzzygrim.com/posts/wireguard)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
