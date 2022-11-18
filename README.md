@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Replacing my MacBook with an Ipad](https://www.fuzzygrim.com/posts/coding-on-ipad)
+- [Replacing my MacBook with an iPad](https://www.fuzzygrim.com/posts/coding-on-ipad)
 - [Summer 2022 in review](https://www.fuzzygrim.com/seasons/summer-2022)
 - [How I secure my VPS](https://www.fuzzygrim.com/posts/secure-vps)
 - [Spring 2022 in review](https://www.fuzzygrim.com/seasons/spring-2022)
