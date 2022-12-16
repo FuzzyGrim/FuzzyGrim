@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xila</h1>
 <h3 align="center">A passionate Python and Java developer from Spain</h3>
 
-- 🔭 I’m currently working on [SummonerStats](https://github.com/FuzzyGrim/SummonerStats)
+- 🔭 I’m currently working on [Yamtarr](https://github.com/FuzzyGrim/Yamtarr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/FuzzyGrim](https://github.com/FuzzyGrim)
 
