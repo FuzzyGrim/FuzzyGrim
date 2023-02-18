@@ -12,11 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a Minecraft Server with Docker](https://www.fuzzygrim.com/posts/minecraft-docker)
+- [Autumn 2022 in review](https://www.fuzzygrim.com/seasons/autumn-2022)
 - [SummonerStats](https://www.fuzzygrim.com/projects/summonerstats)
 - [Going down the mechanical keyboard rabbit hole](https://www.fuzzygrim.com/posts/mechanical-keyboards)
 - [Programming on an iPad](https://www.fuzzygrim.com/posts/coding-on-ipad)
-- [Summer 2022 in review](https://www.fuzzygrim.com/seasons/summer-2022)
-- [How I secure my VPS](https://www.fuzzygrim.com/posts/secure-vps)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
