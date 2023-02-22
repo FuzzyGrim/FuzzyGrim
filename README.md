@@ -2,13 +2,11 @@
 
 - 🔭 I’m currently working on [Yamtarr](https://github.com/FuzzyGrim/Yamtarr)
 
-- 👨‍💻 All of my projects are available at [https://github.com/FuzzyGrim](https://github.com/FuzzyGrim)
-
 - 📝 I regularly write articles on [https://www.fuzzygrim.com/](https://www.fuzzygrim.com/)
 
 - 💬 Ask me about **Python, Django, Homelab, Self-hosting and Online Privacy**
 
-- 📫 How to reach me **github@fuzzygrim.com**
+- 📫 Reach me at **github@fuzzygrim.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,4 +27,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzygrim&show_icons=true&locale=en" alt="fuzzygrim" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuzzygrim&" alt="fuzzygrim" /></p>
-
