@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Xila</h1>
 
-- 🔭 I’m currently working on [Yamtarr](https://github.com/FuzzyGrim/Yamtarr)
+- 🔭 I’m currently working on [Yamtrack](https://github.com/FuzzyGrim/Yamtrack)
 
 - 📝 I regularly write articles on [https://www.fuzzygrim.com/](https://www.fuzzygrim.com/)
 
