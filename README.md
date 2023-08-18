@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading Proxmox and Turnkey Debian](https://www.fuzzygrim.com/posts/upgrade-homelab-os)
 - [Winter 2023 in review](https://www.fuzzygrim.com/seasons/winter-2023)
 - [Hosting a Minecraft Server with Docker](https://www.fuzzygrim.com/posts/minecraft-docker)
 - [Autumn 2022 in review](https://www.fuzzygrim.com/seasons/autumn-2022)
 - [SummonerStats](https://www.fuzzygrim.com/projects/summonerstats)
-- [Going down the mechanical keyboard rabbit hole](https://www.fuzzygrim.com/posts/mechanical-keyboards)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
