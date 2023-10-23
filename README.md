@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My search for a new email provider](https://www.fuzzygrim.com/posts/mail-provider)
 - [Summer 2023 in review](https://www.fuzzygrim.com/seasons/summer-2023)
 - [Upgrading Proxmox and Turnkey Debian](https://www.fuzzygrim.com/posts/upgrade-homelab-os)
 - [Spring 2023 in review](https://www.fuzzygrim.com/seasons/spring-2023)
 - [Winter 2023 in review](https://www.fuzzygrim.com/seasons/winter-2023)
-- [Hosting a Minecraft Server with Docker](https://www.fuzzygrim.com/posts/minecraft-docker)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
