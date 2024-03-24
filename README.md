@@ -11,10 +11,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Winter 2024 in review](https://www.fuzzygrim.com/seasons/winter-2024)
+- [Yamtrack](https://www.fuzzygrim.com/projects/yamtrack)
 - [Analyzing Traefik logs with GoAccess](https://www.fuzzygrim.com/posts/goaccess-traefik)
 - [Autumn 2023 in review](https://www.fuzzygrim.com/seasons/autumn-2023)
 - [My default apps by the end of 2023](https://www.fuzzygrim.com/posts/default-apps-2023)
-- [My search for a new email provider](https://www.fuzzygrim.com/posts/mail-provider)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
