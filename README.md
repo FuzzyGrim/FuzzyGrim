@@ -14,7 +14,7 @@
 - [Winter 2024 in review](https://www.fuzzygrim.com/seasons/winter-2024)
 - [Yamtrack](https://www.fuzzygrim.com/projects/yamtrack)
 - [Analyzing Traefik logs with GoAccess](https://www.fuzzygrim.com/posts/goaccess-traefik)
-- [Autumn 2023 in review](https://www.fuzzygrim.com/seasons/autumn-2023)
+- [Backups with Kopia via Docker](https://www.fuzzygrim.com/posts/kopia-backup)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
