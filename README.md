@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Backups with Kopia via Docker](https://www.fuzzygrim.com/posts/kopia-backup)
 - [Spring 2024 in review](https://www.fuzzygrim.com/seasons/spring-2024)
 - [Winter 2024 in review](https://www.fuzzygrim.com/seasons/winter-2024)
 - [Yamtrack](https://www.fuzzygrim.com/projects/yamtrack)
-- [Backups with Kopia via Docker](https://www.fuzzygrim.com/posts/kopia-backup)
 - [Analyzing Traefik logs with GoAccess](https://www.fuzzygrim.com/posts/goaccess-traefik)
 <!-- BLOG-POST-LIST:END -->
 
