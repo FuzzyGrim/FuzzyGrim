@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Autumn 2024 in review](https://www.fuzzygrim.com/seasons/autumn-2024)
 - [Summer 2024 in review](https://www.fuzzygrim.com/seasons/summer-2024)
 - [Backups with Kopia via Docker](https://www.fuzzygrim.com/posts/kopia-backup)
 - [Spring 2024 in review](https://www.fuzzygrim.com/seasons/spring-2024)
 - [Winter 2024 in review](https://www.fuzzygrim.com/seasons/winter-2024)
-- [Yamtrack](https://www.fuzzygrim.com/projects/yamtrack)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
