@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Autumn 2025 in review](https://www.fuzzygrim.com/seasons/autumn-2025)
 - [Summer 2025 in review](https://www.fuzzygrim.com/seasons/summer-2025)
 - [Spring 2025 in review](https://www.fuzzygrim.com/seasons/spring-2025)
 - [Winter 2025 in review](https://www.fuzzygrim.com/seasons/winter-2025)
 - [Autumn 2024 in review](https://www.fuzzygrim.com/seasons/autumn-2024)
-- [Summer 2024 in review](https://www.fuzzygrim.com/seasons/summer-2024)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
